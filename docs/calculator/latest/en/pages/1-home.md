@@ -18,7 +18,7 @@ The service uses computer models (ADMS-Urban) to calculate the air pollutant emi
 - the air quality impacts of the traffic associated with a new residential development
 - the difference between existing farm operations and those associated with a planned expansion or renovation
 
-For more information on the data used in the tool, please see the [Data Licenses](../content/data-license.md) page. 
+For more information on the data used in the tool, please see the [Data Licenses](https://docs.get-an-air-pollution-assessment.service.gov.uk/calculator/latest/en/content/data-license.html) page. 
 
 <div id='section2'></div>
 
