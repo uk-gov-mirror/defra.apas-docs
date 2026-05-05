@@ -7,3 +7,5 @@ You can use this tab to view a more detailed breakdown of the individual feature
 The nitrogen sensitivity of each of the habitats and species is also displayed on the map. A legend is available in the map layer menu under 'Nitrogen-sensitivity relevant habitats and species'.
 
 Not all designated sites have been assigned nitrogen sensitive habitats or species and not all habitats and species have assigned CL values. If you are unsure about whether a site is nitrogen sensitive or not or unsure about the CL assigned to a site, contact the statutory nature body relevant to that site for site-specific advice. 
+
+[Go to previous page](5-results.md)
