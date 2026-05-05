@@ -1,4 +1,4 @@
-# Information about the service
+**Information about the service**
 
 - [About the Application](about.md)
 - [Terms and Conditions](2-terms_and_conditions.md)
