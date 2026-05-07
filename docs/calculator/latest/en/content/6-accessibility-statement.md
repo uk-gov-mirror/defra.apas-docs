@@ -21,7 +21,7 @@ We’ve also made the website text as simple as possible to understand.
 
 [AbilityNet](https://mcmw.abilitynet.org.uk/) has advice on making your device easier to use if you have a disability.
 
-### How accessible this website is
+## How accessible this website is
 
 We know some parts of this website are not fully accessible:
 - some page titles do not describe the topic or purpose of the page
@@ -48,7 +48,7 @@ Our product management team will triage your feedback and incorporate, as approp
 ### Enforcement procedure
 The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the ‘accessibility regulations’). If you’re not happy with how we respond to your complaint, [contact the Equality Advisory and Support Service (EASS)](https://www.equalityadvisoryservice.com/).
 
-### Technical information about this website’s accessibility
+## Technical information about this website’s accessibility
 DEFRA is committed to making its website accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.
 
 ### Compliance status
@@ -57,7 +57,7 @@ This website is not compliant with the Web Content Accessibility Guidelines vers
 ### Non-accessible content
 The content listed below is non-accessible for the following reasons.
 
-**Non-compliance with the accessibility regulations**
+### Non-compliance with the accessibility regulations
 
 - Across multiple pages, non-text content does not have a text alternative. This fails WCAG 2.2 success criterion 1.1.1 (non-text content).
 
@@ -183,7 +183,7 @@ The content listed below is non-accessible for the following reasons.
 
 Our accessibility roadmap ties into the development cycle of the service itself, where we plan to be rolling out the service to the whole of the UK, and we aim to have addressed as many as possible of the accessibility non-compliances by then.
 
-### Preparation of this accessibility statement
+## Preparation of this accessibility statement
 
 This statement was prepared on 29/04/2026. It was last reviewed on 01/05/2026.
 
