@@ -9,3 +9,5 @@ Your recent activity in the archive will be shown in the table on the home page.
 You can log out of the service by clicking on the log out button in the user information panel.
 
 You can return to the 'Get an air pollution assessment' page by clicking on 'Get an air pollution assessment archive' at the top of the Home page.
+
+For an overview of how to use the archive, [watch this video](https://www.youtube.com/watch?v=M8_o6LTvhgI).

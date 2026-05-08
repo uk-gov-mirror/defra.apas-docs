@@ -2,9 +2,14 @@
 
 # Archive
 
-- [In-combination assessments](#section1)
-- [New project](#section2)
-- [Project information](#section3)
+- [Database table](#section1)
+- [In-combination assessments](#section2)
+- [New project](#section3)
+- [Project information](#section4)
+
+<div id='section1'></div>
+
+## Database table
 
 The columns of the table contain information about the projects:
 * **Upload date** - indicates when the project was added to the archive
@@ -25,7 +30,7 @@ You can sort the projects in the table by clicking on the column headings.
 
 You can download the list of selected projects by clicking on the 'Download CSV' button on the right-hand side of the blue bar.
 
-<div id='section1'></div>
+<div id='section2'></div>
 
 ## In-combination assessments
 
@@ -35,7 +40,8 @@ The Get an air pollution assessment service will include projects from the archi
 * The project in the archive has not been explicitly excluded from in-combination assessments, i.e. it displays a checkmark in the final column of the table
 
 *Note that in-combination assessments are only valid at the time of calculation and maybe subject to change.*
-<div id='section2'></div>
+
+<div id='section3'></div>
 
 ## New project
 
@@ -43,7 +49,9 @@ To add a new project to the archive, you can click on the 'add project' button i
 
 Once a project is uploaded, it is immediately available to be used in in-combination assessments. 
 
-<div id='section3'></div>
+**Important note:** No project can be permanently deleted from the archive once it has been added. Projects with the status 'Deleted' will be excluded from in-combination assessments and be hidden by default to archive users, but can be edited at any time. 
+
+<div id='section4'></div>
 
 ## Project Information
 To view more details for a project, click on the relevant row.

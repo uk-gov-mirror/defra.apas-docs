@@ -52,4 +52,4 @@ The options available for determining fNO<sub>2</sub> are:
 - **Specified below** - you can use this to enter a single custom fNO<sub>2</sub> value in the field that appears below, which will be used in the NO<sub>x</sub> to NO<sub>2</sub> calculations.
 - **Use individual values** - this option will use the individual fNO<sub>2</sub> values you enter for each custom assessment point in the 'Assessment points' screen for the NO<sub>x</sub> to NO<sub>2</sub> calculations.
 
-[Return to top](#top)
+[Go to previous page](4-calculation-jobs.md)

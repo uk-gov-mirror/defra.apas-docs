@@ -63,8 +63,8 @@ Other settings within this tab allow you to select:
 
 <div id='section3'></div>
 
-## Exporting a calculation job good practice
+## Recommended good practice
 
 The calculator does not save your work as you go and you may lose your progress if the tab is closed. For this reason, it is recommended that you export your calculation job after setting it up rather than calculating the results in the browser. A link will be sent to your email to download your calculation job file when it is ready and it can be reimported at any time to view the results. 
 
-[Return to top](#top)
+[Go to previous page](4-calculation-jobs.md)

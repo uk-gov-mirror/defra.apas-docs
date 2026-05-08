@@ -9,11 +9,11 @@
 
 # Privacy Notice
 
-This privacy notice provides information about the "Get an air pollution assessment" service, and outlines the personal data collected, who manages it and why. It also tells you about your rights in relation to how the service uses your personal data and who to contact if you have any questions or concerns.
+This privacy notice provides information about the 'Get an air pollution assessment' service, and outlines the personal data collected, who manages it and why. It also tells you about your rights in relation to how the service uses your personal data and who to contact if you have any questions or concerns.
 
 The 'Get an air pollution assessment' service calculates the impacts on air quality of new developments being built on sensitive ecological sites. You can use the information created using the service when applying for an environmental permit or planning permission. 
 
-### Who collects your personal data
+## Who collects your personal data
 
 Department for Environment, Food and Rural Affairs (Defra) is the controller for the personal data we collect:
 
@@ -23,7 +23,7 @@ If you need further information about how Defra uses your personal data and your
 
 The Data Protection Officer for Defra is responsible for checking that Defra complies with legislation. You can contact them at DefraGroupDataProtectionOfficer@defra.gov.uk or at the above address.
 
-### What personal data we collect and how it is used
+## What personal data we collect and how it is used
 
 We collect your:
 - Name
@@ -32,15 +32,15 @@ We collect your:
 
 We use this data:
 - If the processing of a dispersion modelling assessment is taking some time to complete. Users are offered the option to enter an email address, to allow the user to exit the service and have an email sent to them once their modelling results are complete, together with a link to download the modelling report. 
-- To authenticate users through the GOV.UK One Login service, when accessing the "In-Combination" Archive. Once a GOV.UK One Login account has been created, first time users of the "In-Combination" Archive will be asked to enter additional data, over and above the email address captured by the GOV.UK One Login system. This will consist of first and last name, regulatory body (selected from a dropdown), job role and phone number. This data will be used to contact the individual and confirm their professional status, prior to determining their appropriate roles and approving their access.
-- To collect and hold contact details for system users who reach out for help and advice or report a problem with the service. The “Get an Air Pollution Assessment” Service operational team will manage these details. The users contact data will only be captured if the user requests a response to their request.
+- To authenticate users through the GOV.UK One Login service, when accessing the 'In-combination archive'. Once a GOV.UK One Login account has been created, first time users of the 'In-combination archive' will be asked to enter additional data, over and above the email address captured by the GOV.UK One Login system. This will consist of first and last name, regulatory body (selected from a dropdown), job role and phone number. This data will be used to contact the individual and confirm their professional status, prior to determining their appropriate roles and approving their access.
+- To collect and hold contact details for system users who reach out for help and advice or report a problem with the service. The 'Get an air pollution assessment' service operational team will manage these details. The users contact data will only be captured if the user requests a response to their request.
 - To understands overall service usage and inform decision making around new feature developments, using Google Analytics. If consent is given by the user, Google Analytics will create a cookie on the user’s computer.  
 
-### How your personal data has been obtained, if from a third party
+## How your personal data has been obtained, if from a third party
 
-From freely available public information the “Get an Air Pollution Assessment” Service operational team obtain organisational contact details for all UK regulators and planning authorities who will require access to the "In-Combination" Archive. This data, together with the data entered by the user, will be used to contact the appropriate regulatory body to verify that the user’s identity and job role.
+From freely available public information the 'Get an air pollution assessment' service operational team obtain organisational contact details for all UK regulators and planning authorities who will require access to the 'In-combination' archive. This data, together with the data entered by the user, will be used to contact the appropriate regulatory body to verify that the user’s identity and job role.
 
-### Lawful basis for processing your personal data
+## Lawful basis for processing your personal data
 
 The lawful basis for processing your personal data is: Public Task 
 
@@ -48,11 +48,11 @@ Defra is the Data Controller, and the personal data is captured under public tas
 
 Defra to rely on performance of a task carried out in the public interest (governmental function) rather than an explicit piece of legislation (see GDPR Recital 45).
 
-### Consent to process your personal data
+## Consent to process your personal data
 
 Google Analytics are applied with user consent. Users will be able to control their consent with a cookie management tool that will pop up on first entry to the service and be accessible throughout from the "C" icon in the bottom right corner of the screen.
 
-### Who we share your personal data with
+## Who we share your personal data with
 
 We will share the personal data collected under this privacy notice with:
 - Joint Nature Conservation Committee (JNCC) as the operational team managing the day to day running of the service.
@@ -65,7 +65,7 @@ We will share the personal data collected under this privacy notice with:
 
 We respect your personal privacy when responding to access to information requests. We only share information when necessary to meet the statutory requirements of the Environmental Information Regulations 2004 and the Freedom of Information Act 2000.
 
-### How long we hold personal data
+## How long we hold personal data
 
 The following:
 - email addresses captured to inform a user when their calculations are complete, will only be held in the system until passed to .GOV Notify for the email notification to be sent, and then the email address will be deleted. 
@@ -75,26 +75,26 @@ The following:
 - data collected on regulators will be stored as long as required for the operation of the service.
 - data held in Google analytics will be retained for 14 months.
 
-### What happens if you do not provide the personal data
+## What happens if you do not provide the personal data
 
-The Calculator component of the “Get an Air Pollution Assessment” Service is open access and does not require users to register/or login, so there will be no restriction of access if no personal data is provided. 
+The Calculator component of the 'Get an air pollution assessment' service is open access and does not require users to register/or login, so there will be no restriction of access if no personal data is provided. 
 
 If you do not provide the personal data:
 
 - Within the Calculator, you will not be able to leave the service and receive email notifications when your calculations are completed (as they can take some time) and you will have to remain in the Calculator until the calculations are completed.
 - You will not be able to register with GOV.UK One Login and create a personal account. You will then also not be able to request access to the 'In-combination archive', to conduct your regulatory duty.
 
-### Use of automated decision-making or profiling
+## Use of automated decision-making or profiling
 
 The personal data you provide is not used for:
 - automated decision making (making a decision by automated means without any human involvement)
 - profiling (automated processing of personal data to evaluate certain things about an individual)
 
-### Transfer of your personal data outside of the UK
+## Transfer of your personal data outside of the UK
 
 We will only transfer your personal data to another country that is deemed adequate for data protection purposes.
 
-### Your rights
+## Your rights
 
 Based on the lawful processing above, your individual rights are:
 - The right to be informed
@@ -106,13 +106,13 @@ Based on the lawful processing above, your individual rights are:
 
 More information about your [individual rights](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/) under the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018 (DPA 2018), can be found [here](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).
 
-### Complaints
+## Complaints
 
 You have the right to [make a complaint](https://ico.org.uk/make-a-complaint/) to the Information Commissioner’s Office at any time.
 
-### Personal Information Charter
+## Personal Information Charter
 
 Our [Personal Information Charter](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs/about/personal-information-charter) explains more about your rights over your personal data.
 
-### Version
+## Version
 Last updated: 02/04/2026

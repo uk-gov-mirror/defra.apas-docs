@@ -12,4 +12,4 @@ The total predicted environmental concentration (PEC) or deposition level is als
 
 The colours of the results, and the value categories on the x-axis of the bar graphs, change depending on whether you are viewing results for PC or IPC. The change in x-axis values recognises that different values of %CL may be considered acceptable depending on whether you are viewing results for an in-isolation assessment (PC results) or an in-combination assessment (IPC results).
 
-
+[Go to previous page](5-results.md)
