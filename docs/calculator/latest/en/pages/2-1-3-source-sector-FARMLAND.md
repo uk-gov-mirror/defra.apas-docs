@@ -9,6 +9,6 @@ The farmland sector is broken down into:
 
 Farmland sources are broken down into subsources. Farmland grazing, organic fertiliser application and outdoor yards use emission factors. If you don't want to use emission factors, select the 'Other' sector which allows for the manual input of emissions. 
 
-Organic fertiliser application and organic processes do not have emission factors and require the manual input of NO<sub>x</sub> and NH<sub>3</sub> emissions in kilograms per year (kg/y).
+Inorganic fertiliser application and organic processes do not have emission factors and require the manual input of NO<sub>x</sub> and NH<sub>3</sub> emissions in kilograms per year (kg/y).
 
 [Go to previous page](2-1-2-source-sector-group-AGRICULTURE.md)
